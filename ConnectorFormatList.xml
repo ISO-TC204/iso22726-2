@@ -1,0 +1,32 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ConnectorFormatList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>A list of cable types used during the charging process.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">ConnectorFormatList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="cableMode2">
+      <gml:description>The connector is an attached cable; the user of the electric vehicle (EV) needs to have a fitting inlet for a mode 2 cable, common for most domestic sockets.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorFormatList">cableMode2</gml:identifier>
+      <gml:name>0</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="cableMode3">
+      <gml:description>The connector is an attached cable; the the user of the electric vehicle (EV) needs  to have a fitting inlet for a mode 3 cable, can be used for Type 1 and Type 2 sockets.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorFormatList">cableMode3</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="otherCable">
+      <gml:description>The connector is an attached cable; the the user of the electric vehicle (EV) needs to have a fitting inlet.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorFormatList">otherCable</gml:identifier>
+      <gml:name>2</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="socket">
+      <gml:description>The connector is a socket; the user of the electric vehicle (EV) needs  to bring a fitting plug.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorFormatList">socket</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

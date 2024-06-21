@@ -1,0 +1,67 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="GeneralNetworkManagementTypeList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>Types of network management actions.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">GeneralNetworkManagementTypeList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="bridgeSwingInOperation">
+      <gml:description>The bridge at the specified location has swung or lifted and is therefore temporarily closed to traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/GeneralNetworkManagementTypeList">bridgeSwingInOperation</gml:identifier>
+      <gml:name>0</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="convoyService">
+      <gml:description>A vehicle convoy service is in operation, for example with a snowplough running ahead due to bad weather conditions.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/GeneralNetworkManagementTypeList">convoyService</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="obstacleSignalling">
+      <gml:description>Signs are being put out before or around an obstacle to protect drivers.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/GeneralNetworkManagementTypeList">obstacleSignalling</gml:identifier>
+      <gml:name>2</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="other">
+      <gml:description>Other than as defined in this list.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/GeneralNetworkManagementTypeList">other</gml:identifier>
+      <gml:name>8</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="rampMeteringInOperation">
+      <gml:description>Ramp metering is now active at the specified location.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/GeneralNetworkManagementTypeList">rampMeteringInOperation</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="temporaryTrafficSignals">
+      <gml:description>Traffic is being controlled by temporary traffic signals (red-yellow-green or red-green).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/GeneralNetworkManagementTypeList">temporaryTrafficSignals</gml:identifier>
+      <gml:name>4</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tollGatesOpen">
+      <gml:description>Toll gates are open with no fee collection at the specified location.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/GeneralNetworkManagementTypeList">tollGatesOpen</gml:identifier>
+      <gml:name>5</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="trafficBeingManuallyDirected">
+      <gml:description>Traffic is being manually directed.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/GeneralNetworkManagementTypeList">trafficBeingManuallyDirected</gml:identifier>
+      <gml:name>6</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="trafficHeld">
+      <gml:description>Traffic in the specified direction is temporarily held up due to an unplanned event (e.g. for clearance of wreckage following an accident).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/GeneralNetworkManagementTypeList">trafficHeld</gml:identifier>
+      <gml:name>7</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

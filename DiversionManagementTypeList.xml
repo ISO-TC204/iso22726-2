@@ -1,0 +1,74 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="DiversionManagementTypeList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>Management actions relating to diversion or rerouting.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">DiversionManagementTypeList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="doNotFollowDiversionSigns">
+      <gml:description>Do not follow diversion signs.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DiversionManagementTypeList">doNotFollowDiversionSigns</gml:identifier>
+      <gml:name>0</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="doNotUseEntry">
+      <gml:description>Rerouted traffic is not to use the specified entry onto the identified road to commence the alternative route.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DiversionManagementTypeList">doNotUseEntry</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="doNotUseExit">
+      <gml:description>Rerouted traffic is not to use the specified exit from the identified road to commence the alternative route.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DiversionManagementTypeList">doNotUseExit</gml:identifier>
+      <gml:name>2</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="doNotUseIntersectionOrJunction">
+      <gml:description>Rerouted traffic is not to use the specified intersection or junction.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DiversionManagementTypeList">doNotUseIntersectionOrJunction</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="followDiversionSigns">
+      <gml:description>Rerouted traffic is to follow the diversion signs.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DiversionManagementTypeList">followDiversionSigns</gml:identifier>
+      <gml:name>4</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="followLocalDiversion">
+      <gml:description>Rerouted traffic is to follow local diversion.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DiversionManagementTypeList">followLocalDiversion</gml:identifier>
+      <gml:name>5</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="followSpecialMarkers">
+      <gml:description>Rerouted traffic is to follow the special diversion markers.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DiversionManagementTypeList">followSpecialMarkers</gml:identifier>
+      <gml:name>6</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="useEntry">
+      <gml:description>Rerouted traffic is to use the specified entry onto the identified road to commence the alternative route.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DiversionManagementTypeList">useEntry</gml:identifier>
+      <gml:name>7</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="useExit">
+      <gml:description>Rerouted traffic is to use the specified exit from the identified road to commence the alternative route.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DiversionManagementTypeList">useExit</gml:identifier>
+      <gml:name>8</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="useIntersectionOrJunction">
+      <gml:description>Rerouted traffic is to use the specified intersection or junction to commence the alternative route.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DiversionManagementTypeList">useIntersectionOrJunction</gml:identifier>
+      <gml:name>9</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,130 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="EnvironmentalObstructionTypeList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>Types of environmental obstructions.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">EnvironmentalObstructionTypeList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="avalanches">
+      <gml:description>The road is obstructed or partially obstructed due to snow slides.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">avalanches</gml:identifier>
+      <gml:name>0</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="earthquakeDamage">
+      <gml:description>The road is obstructed or partially obstructed because of damage caused by an earthquake.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">earthquakeDamage</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="fallenTrees">
+      <gml:description>The road is obstructed or partially obstructed by one or more fallen trees.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">fallenTrees</gml:identifier>
+      <gml:name>2</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="fallingIce">
+      <gml:description>Falling ice off trees, power lines or structures which cancause traffic disruption.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">fallingIce</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="fallingLightIceOrSnow">
+      <gml:description>Falling light ice or snow off trees, power lines or structures which can cause traffic disruption.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">fallingLightIceOrSnow</gml:identifier>
+      <gml:name>4</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="flashFloods">
+      <gml:description>The road becomes quickly inundated by powerful floodwaters due to heavy rain nearby.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">flashFloods</gml:identifier>
+      <gml:name>5</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="flooding">
+      <gml:description>The road is obstructed or partially obstructed by flood water.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">flooding</gml:identifier>
+      <gml:name>6</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="forestFire">
+      <gml:description>Traffic can be disrupted due to a forest fire adjacent to the roadway.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">forestFire</gml:identifier>
+      <gml:name>7</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="grassFire">
+      <gml:description>Traffic can be disrupted due to a grass fire adjacent to the roadway.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">grassFire</gml:identifier>
+      <gml:name>8</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="landslips">
+      <gml:description>The road is obstructed or partially obstructed due to landslides.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">landslips</gml:identifier>
+      <gml:name>9</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="mudSlide">
+      <gml:description>The road is obstructed or partially obstructed due to mudslides.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">mudSlide</gml:identifier>
+      <gml:name>10</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="other">
+      <gml:description>Other than as defined in this list.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">other</gml:identifier>
+      <gml:name>17</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="rockfalls">
+      <gml:description>The road can be obstructed or partially obstructed due to fallen rocks.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">rockfalls</gml:identifier>
+      <gml:name>12</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="seriousFire">
+      <gml:description>Traffic can be disrupted due to a fire (other than a vehicle fire) adjacent to the roadway.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">seriousFire</gml:identifier>
+      <gml:name>13</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="sewerOverflow">
+      <gml:description>The road is obstructed or partially obstructed by overflows from one or more sewers.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">sewerOverflow</gml:identifier>
+      <gml:name>11</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="smokeOrFumes">
+      <gml:description>Smoke or fumes which can hinder driving conditions or distract drivers.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">smokeOrFumes</gml:identifier>
+      <gml:name>14</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="stormDamage">
+      <gml:description>The road can be obstructed or partially obstructed by debris caused by strong winds.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">stormDamage</gml:identifier>
+      <gml:name>15</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="subsidence">
+      <gml:description>The road surface has sunken or collapsed in places.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EnvironmentalObstructionTypeList">subsidence</gml:identifier>
+      <gml:name>16</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

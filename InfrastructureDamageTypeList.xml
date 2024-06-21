@@ -1,0 +1,90 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="InfrastructureDamageTypeList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>Types of infrastructure damage which may have an effect on the road network.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">InfrastructureDamageTypeList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="burstPipe">
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/InfrastructureDamageTypeList">burstPipe</gml:identifier>
+      <gml:name>0</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="burstWaterMain">
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/InfrastructureDamageTypeList">burstWaterMain</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="collapsedSewer">
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/InfrastructureDamageTypeList">collapsedSewer</gml:identifier>
+      <gml:name>2</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="damagedBridge">
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/InfrastructureDamageTypeList">damagedBridge</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="damagedCrashBarrier">
+      <gml:description>Damage to a crash barrier that may cause traffic disruption.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/InfrastructureDamageTypeList">damagedCrashBarrier</gml:identifier>
+      <gml:name>4</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="damagedFlyover">
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/InfrastructureDamageTypeList">damagedFlyover</gml:identifier>
+      <gml:name>5</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="damagedGallery">
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/InfrastructureDamageTypeList">damagedGallery</gml:identifier>
+      <gml:name>6</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="damagedGantry">
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/InfrastructureDamageTypeList">damagedGantry</gml:identifier>
+      <gml:name>7</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="damagedRoadSurface">
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/InfrastructureDamageTypeList">damagedRoadSurface</gml:identifier>
+      <gml:name>8</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="damagedTunnel">
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/InfrastructureDamageTypeList">damagedTunnel</gml:identifier>
+      <gml:name>9</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="fallenPowerCables">
+      <gml:description>The road is obstructed or partially obstructed by one or more fallen power cables.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/InfrastructureDamageTypeList">fallenPowerCables</gml:identifier>
+      <gml:name>11</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="gasLeak">
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/InfrastructureDamageTypeList">gasLeak</gml:identifier>
+      <gml:name>12</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="other">
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/InfrastructureDamageTypeList">other</gml:identifier>
+      <gml:name>14</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="weakBridge">
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/InfrastructureDamageTypeList">weakBridge</gml:identifier>
+      <gml:name>13</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

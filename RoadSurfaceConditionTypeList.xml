@@ -1,0 +1,248 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="RoadSurfaceConditionTypeList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>Types of road surface conditions which are related or not to the weather.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">RoadSurfaceConditionTypeList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="blackIce">
+      <gml:description>Severe skid risk due to black ice (i.e. clear ice, which is impossible or very difficult to see).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">blackIce</gml:identifier>
+      <gml:name>0</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="deepSnow">
+      <gml:description>Deep snow on the roadway.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">deepSnow</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="dieselOnRoad">
+      <gml:description>Increased skid risk due to diesel on the road.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">dieselOnRoad</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="dry">
+      <gml:description>There is no humidity over the sensor.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">dry</gml:identifier>
+      <gml:name>4</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="freezingOfWetRoad">
+      <gml:description>The wet road surface is subject to freezing.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">freezingOfWetRoad</gml:identifier>
+      <gml:name>5</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="freezingRain">
+      <gml:description>Severe skid risk due to rain falling on sub-zero temperature road surface and freezing.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">freezingRain</gml:identifier>
+      <gml:name>6</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="freshSnow">
+      <gml:description>Fresh snow (with little or no traffic yet) on the roadway.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">freshSnow</gml:identifier>
+      <gml:name>7</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="ice">
+      <gml:description>Increased skid risk due to ice (of any kind).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">ice</gml:identifier>
+      <gml:name>8</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="iceBuildingUp">
+      <gml:description>Ice is building up on the roadway causing a serious skid hazard.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">iceBuildingUp</gml:identifier>
+      <gml:name>9</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="iceWithWheelBarTracks">
+      <gml:description>Ice on the road frozen in the form of wheel tracks.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">iceWithWheelBarTracks</gml:identifier>
+      <gml:name>10</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="icyPatches">
+      <gml:description>Severe skid risk due to icy patches (i.e. intermittent ice on roadway).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">icyPatches</gml:identifier>
+      <gml:name>11</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="leavesOnRoad">
+      <gml:description>Increased skid risk due to leaves on road.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">leavesOnRoad</gml:identifier>
+      <gml:name>12</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="looseChippings">
+      <gml:description>Increased skid risk and injury risk due to loose chippings on road.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">looseChippings</gml:identifier>
+      <gml:name>2</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="looseSandOnRoad">
+      <gml:description>Increased skid risk due to loose sand on road.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">looseSandOnRoad</gml:identifier>
+      <gml:name>13</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="looseSnow">
+      <gml:description>Powdery snow on the road which is subject to being blown by the wind.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">looseSnow</gml:identifier>
+      <gml:name>14</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="moist">
+      <gml:description>From (0,01 mm) water film thickness over the sensor</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">moist</gml:identifier>
+      <gml:name>15</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="mudOnRoad">
+      <gml:description>Increased skid risk due to mud on road.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">mudOnRoad</gml:identifier>
+      <gml:name>16</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="notDry">
+      <gml:description>The road surface is not dry.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">notDry</gml:identifier>
+      <gml:name>17</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="oilOnRoad">
+      <gml:description>Increased skid risk due to oil on road.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">oilOnRoad</gml:identifier>
+      <gml:name>18</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="other">
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">other</gml:identifier>
+      <gml:name>99</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="packedSnow">
+      <gml:description>Packed snow (heavily trafficked) on the roadway.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">packedSnow</gml:identifier>
+      <gml:name>19</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="petrolOnRoad">
+      <gml:description>Increased skid risk due to petrol on road.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">petrolOnRoad</gml:identifier>
+      <gml:name>20</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="rime">
+      <gml:description>Rime of the road surface.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">rime</gml:identifier>
+      <gml:name>21</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="roadMarkingNotPresent">
+      <gml:description>Road markings are not present due to maintenance works in progress.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">roadMarkingNotPresent</gml:identifier>
+      <gml:name>22</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="roadSurfaceInPoorCondition">
+      <gml:description>The road surface is damaged, severely rutted or potholed (i.e. it is in a poor state of repair).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">roadSurfaceInPoorCondition</gml:identifier>
+      <gml:name>24</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="roadSurfaceMelting">
+      <gml:description>The road surface is melting, or has melted due to abnormally high temperatures.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">roadSurfaceMelting</gml:identifier>
+      <gml:name>23</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="slipperyRoad">
+      <gml:description>The road surface is slippery due to an unspecified cause.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">slipperyRoad</gml:identifier>
+      <gml:name>25</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="slushOnRoad">
+      <gml:description>Increased skid risk due to melting snow (slush) on road.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">slushOnRoad</gml:identifier>
+      <gml:name>26</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="slushStrings">
+      <gml:description>Melting snow (slush) on the roadway is formed into wheel tracks.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">slushStrings</gml:identifier>
+      <gml:name>27</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="snowDrifts">
+      <gml:description>Snow drifting is in progress or patches of deep snow are present due to earlier drifting.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">snowDrifts</gml:identifier>
+      <gml:name>28</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="snowOnTheRoad">
+      <gml:description>Snow is lying on the road surface.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">snowOnTheRoad</gml:identifier>
+      <gml:name>29</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="streamingWater">
+      <gml:description>From (2 mm) water film thickness over the sensor.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">streamingWater</gml:identifier>
+      <gml:name>30</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="surfaceWater">
+      <gml:description>Water is resting on the roadway which provides an increased hazard to vehicles.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">surfaceWater</gml:identifier>
+      <gml:name>31</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="wet">
+      <gml:description>From (0,2 mm) water film thickness over the sensor</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">wet</gml:identifier>
+      <gml:name>32</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="wetAndIcyRoad">
+      <gml:description>Increased skid risk due to partly thawed, wet road with packed snow and ice, or rain falling on packed snow and ice.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadSurfaceConditionTypeList">wetAndIcyRoad</gml:identifier>
+      <gml:name>33</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

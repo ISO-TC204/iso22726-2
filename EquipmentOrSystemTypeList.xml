@@ -1,0 +1,193 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="EquipmentOrSystemTypeList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>Types of equipment and systems used to support the operation of the road network.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">EquipmentOrSystemTypeList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="anprCameras">
+      <gml:description>Automatic number plate recognition (ANPR) cameras.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">anprCameras</gml:identifier>
+      <gml:name>0</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="automatedTollSystems">
+      <gml:description>Automated toll system.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">automatedTollSystems</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="cctvCameras">
+      <gml:description>Closed-circuit television (CCTV) cameras.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">cctvCameras</gml:identifier>
+      <gml:name>2</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="emergencyRoadsideTelephones">
+      <gml:description>Emergency roadside telephones.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">emergencyRoadsideTelephones</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="fireDetectionEquipment">
+      <gml:description>Fire detection equipment.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">fireDetectionEquipment</gml:identifier>
+      <gml:name>4</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="galleryLights">
+      <gml:description>Gallery lights.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">galleryLights</gml:identifier>
+      <gml:name>5</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="laneControlSigns">
+      <gml:description>Signs used to control lane usage (e.g. in tidal flow systems or hard shoulder running).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">laneControlSigns</gml:identifier>
+      <gml:name>6</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="levelCrossing">
+      <gml:description>Level crossing (barriers and signals).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">levelCrossing</gml:identifier>
+      <gml:name>7</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="matrixSigns">
+      <gml:description>Matrix signs. These normally comprise a symbol display area surrounded by four lights (usually amber) which flash when a symbol is displayed.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">matrixSigns</gml:identifier>
+      <gml:name>8</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="other">
+      <gml:description>Other than as defined in this list.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">other</gml:identifier>
+      <gml:name>26</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="rampControls">
+      <gml:description>Ramp control equipment.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">rampControls</gml:identifier>
+      <gml:name>9</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="roadsideCommunicationsSystem">
+      <gml:description>Roadside communications system which is used by one or more roadside equipments or systems.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">roadsideCommunicationsSystem</gml:identifier>
+      <gml:name>10</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="roadsidePowerSystem">
+      <gml:description>Roadside power system which is used by one or more roadside equipments or systems.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">roadsidePowerSystem</gml:identifier>
+      <gml:name>11</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="speedControlSigns">
+      <gml:description>Signs used to control traffic speed.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">speedControlSigns</gml:identifier>
+      <gml:name>12</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="streetLighting">
+      <gml:description>Street or road lighting.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">streetLighting</gml:identifier>
+      <gml:name>13</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="temporaryTrafficSignals">
+      <gml:description>Temporary traffic lights.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">temporaryTrafficSignals</gml:identifier>
+      <gml:name>14</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tollGates">
+      <gml:description>Toll gates.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">tollGates</gml:identifier>
+      <gml:name>15</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="trafficSignalSets">
+      <gml:description>Sets of traffic signals.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">trafficSignalSets</gml:identifier>
+      <gml:name>16</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="trafficSignals">
+      <gml:description>Traffic signals.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">trafficSignals</gml:identifier>
+      <gml:name>17</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tunnelEmergencyPhones">
+      <gml:description>Tunnel emergency telephones.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">tunnelEmergencyPhones</gml:identifier>
+      <gml:name>18</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tunnelFireFightingEquipment">
+      <gml:description>Tunnel fire fighting equipment.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">tunnelFireFightingEquipment</gml:identifier>
+      <gml:name>19</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tunnelLights">
+      <gml:description>Tunnel lights.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">tunnelLights</gml:identifier>
+      <gml:name>20</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tunnelMobileCommunication">
+      <gml:description>Tunnel mobile coverage communication equipment</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">tunnelMobileCommunication</gml:identifier>
+      <gml:name>21</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tunnelRadioCommunication">
+      <gml:description>Tunnel radio communication equipment</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">tunnelRadioCommunication</gml:identifier>
+      <gml:name>22</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tunnelSafetySystem">
+      <gml:description>Any tunnel safety system.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">tunnelSafetySystem</gml:identifier>
+      <gml:name>23</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tunnelVentilation">
+      <gml:description>Tunnel ventilation system.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">tunnelVentilation</gml:identifier>
+      <gml:name>24</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="variableMessageSigns">
+      <gml:description>Variable message signs.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/EquipmentOrSystemTypeList">variableMessageSigns</gml:identifier>
+      <gml:name>25</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

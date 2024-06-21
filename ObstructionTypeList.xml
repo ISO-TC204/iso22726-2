@@ -1,0 +1,165 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ObstructionTypeList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>Types of obstructions on the carriageway.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">ObstructionTypeList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="airCrash">
+      <gml:description>An air crash adjacent to the roadway which can cause traffic disruption.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">airCrash</gml:identifier>
+      <gml:name>0</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="childrenOnRoadway">
+      <gml:description>Children on the roadway which can cause traffic disruption.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">childrenOnRoadway</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="craneOperating">
+      <gml:description>A crane is operating either on or adjacent to the road which can cause an obstruction to traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">craneOperating</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="cyclistsOnRoadway">
+      <gml:description>Cyclists on the roadway which can cause traffic disruption..</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">cyclistsOnRoadway</gml:identifier>
+      <gml:name>4</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="debris">
+      <gml:description>Scattered fragments of wreckage or other material on the road.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">debris</gml:identifier>
+      <gml:name>5</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="explosion">
+      <gml:description>A situation where an explosive or incendiary device has gone off.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">explosion</gml:identifier>
+      <gml:name>6</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="explosionHazard">
+      <gml:description>A situation where there is danger of an explosion which can cause disruption to traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">explosionHazard</gml:identifier>
+      <gml:name>7</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="hazardsOnTheRoad">
+      <gml:description>Unspecified hazard(s) on the road which can cause traffic disruption.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">hazardsOnTheRoad</gml:identifier>
+      <gml:name>8</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="incident">
+      <gml:description>Incidents are chance occurrences involving vehicles from the traffic stream, which could present potential hazards to road users.  This item excludes accidents.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">incident</gml:identifier>
+      <gml:name>11</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="industrialAccident">
+      <gml:description>Industrial accident near the roadway which can cause traffic disruption.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">industrialAccident</gml:identifier>
+      <gml:name>12</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="objectOnTheRoad">
+      <gml:description>The road can be obstructed or traffic hindered due to objects laying on the roadway.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">objectOnTheRoad</gml:identifier>
+      <gml:name>13</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="objectsFallingFromMovingVehicle">
+      <gml:description>Objects falling from moving vehicles which are presenting a hazard to other vehicles.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">objectsFallingFromMovingVehicle</gml:identifier>
+      <gml:name>14</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="obstructionOnTheRoad">
+      <gml:description>Unspecified obstruction on the roadway which can cause traffic disruption.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">obstructionOnTheRoad</gml:identifier>
+      <gml:name>15</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="other">
+      <gml:description>Other than as defined in this list.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">other</gml:identifier>
+      <gml:name>26</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="peopleOnRoadway">
+      <gml:description>People on the roadway which can cause traffic disruption.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">peopleOnRoadway</gml:identifier>
+      <gml:name>16</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="railCrash">
+      <gml:description>A rail crash adjacent to the roadway which can cause traffic disruption.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">railCrash</gml:identifier>
+      <gml:name>17</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="rescueAndRecoveryWork">
+      <gml:description>Work is being undertaken by emergency services which can present a hazard to road users.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">rescueAndRecoveryWork</gml:identifier>
+      <gml:name>19</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="severeFrostDamagedRoadway">
+      <gml:description>Severe frost damage to the roadway causing an obstruction to traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">severeFrostDamagedRoadway</gml:identifier>
+      <gml:name>20</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="shedLoad">
+      <gml:description>Spillage of transported goods on the roadway which can cause traffic disruption.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">shedLoad</gml:identifier>
+      <gml:name>21</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="snowAndIceDebris">
+      <gml:description>Snow and ice debris on the roadway which can present a hazard to road users.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">snowAndIceDebris</gml:identifier>
+      <gml:name>22</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="spillageOccurringFromMovingVehicle">
+      <gml:description>Substances are spilling out from a moving vehicle which is presenting a hazard to other road users.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">spillageOccurringFromMovingVehicle</gml:identifier>
+      <gml:name>23</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="spillageOnTheRoad">
+      <gml:description>Includes all situations where a spillage has occurred on the roadway due to an earlier incident.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">spillageOnTheRoad</gml:identifier>
+      <gml:name>24</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="unprotectedAccidentArea">
+      <gml:description>An accident area which has not been protected and can present a hazard to road users.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ObstructionTypeList">unprotectedAccidentArea</gml:identifier>
+      <gml:name>25</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

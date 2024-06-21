@@ -1,0 +1,88 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="AuthorityOperationTypeList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>Types of authority operations.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">AuthorityOperationTypeList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="bombSquadInAction">
+      <gml:description>An operation where a bomb squad is in action to deal with suspected or actual explosive or incendiary devices which may cause disruption to traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AuthorityOperationTypeList">bombSquadInAction</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="civilEmergency">
+      <gml:description>A situation, perceived or actual, relating to a civil emergency which could disrupt traffic. This includes large scale destruction, through events such as earthquakes, insurrection, and civil disobedience.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AuthorityOperationTypeList">civilEmergency</gml:identifier>
+      <gml:name>2</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="customsOperation">
+      <gml:description>A permanent or temporary operation established by customs and excise authorities on or adjacent to the carriageway.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AuthorityOperationTypeList">customsOperation</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="policeCheckPoint">
+      <gml:description>A permanent or temporary operation established on or adjacent to the carriageway for use by police or other authorities.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AuthorityOperationTypeList">policeCheckPoint</gml:identifier>
+      <gml:name>5</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="roadOperatorCheckPoint">
+      <gml:description>A permanent or temporary operation established on or adjacent to the carriageway for use by the road operator, such as for survey or inspection purposes, but not for traffic management purposes.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AuthorityOperationTypeList">roadOperatorCheckPoint</gml:identifier>
+      <gml:name>7</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="snowChainOnBoardOrSnowTyresMountedCheck">
+      <gml:description>The police are checking if snow chains are on board vehicles or vehicles have snow tyres mounted.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AuthorityOperationTypeList">snowChainOnBoardOrSnowTyresMountedCheck</gml:identifier>
+      <gml:name>8</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="snowChainOrSnowTyresMountedCheck">
+      <gml:description>The police are checking if snow chains or snow tyres are mounted on vehicles.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AuthorityOperationTypeList">snowChainOrSnowTyresMountedCheck</gml:identifier>
+      <gml:name>9</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="survey">
+      <gml:description>A permanent or temporary operation established by authorities on or adjacent to the carriageway for the purpose of gathering statistics or other traffic related information.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AuthorityOperationTypeList">survey</gml:identifier>
+      <gml:name>10</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="undefinedActivity">
+      <gml:description>An authority activity of undefined type.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AuthorityOperationTypeList">undefinedActivity</gml:identifier>
+      <gml:name>12</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="vehicleInspectionCheckPoint">
+      <gml:description>A permanent or temporary operation established on or adjacent to the carriageway for inspection of vehicles by authorities (e.g. vehicle safety checks and tachograph checks).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AuthorityOperationTypeList">vehicleInspectionCheckPoint</gml:identifier>
+      <gml:name>13</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="vehicleWeighing">
+      <gml:description>A permanent or temporary operation established on or adjacent to the carriageway for weighing of vehicles by authorities.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AuthorityOperationTypeList">vehicleWeighing</gml:identifier>
+      <gml:name>14</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="weighInMotion">
+      <gml:description>A permanent or temporary facility established by authorities on the carriageway for weighing vehicles while in motion.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AuthorityOperationTypeList">weighInMotion</gml:identifier>
+      <gml:name>15</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

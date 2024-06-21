@@ -1,0 +1,494 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="VehicleTypeList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>Types of vehicle (Main sources: ISO 3833:1977 and UNECE regulation).</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">VehicleTypeList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="agriculturalVehicle">
+      <gml:description>Vehicle normally used for agricultural purposes, e.g. tractor, combined harvester etc.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">agriculturalVehicle</gml:identifier>
+      <gml:name>0</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="ambulance">
+      <gml:description>Motor vehicles of category M intended for the transport of sick or injured people and having special equipment for such purpose.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">ambulance</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="anyVehicle">
+      <gml:description>Vehicle of any type.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">anyVehicle</gml:identifier>
+      <gml:name>2</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="armouredVehicle">
+      <gml:description>Vehicle (of unspecified type) intended for the protection of conveyed passengers and/or goods and complying with armour plating anti-bullet requirements.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">armouredVehicle</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="articulatedBus">
+      <gml:description>Articulated vehicle for public transport.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">articulatedBus</gml:identifier>
+      <gml:name>4</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="articulatedVehicle">
+      <gml:description>Transport vehicle with articulation between component carriage parts of the vehicle.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">articulatedVehicle</gml:identifier>
+      <gml:name>7</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="articultedTrolleyBus">
+      <gml:description>Bus-like mass transport vehicle hocked up to an electrical network for power supply, with articulation between component carriage parts of the vehicle.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">articultedTrolleyBus</gml:identifier>
+      <gml:name>5</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="bicycle">
+      <gml:description>Pedal-driven two-wheeled vehicle.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">bicycle</gml:identifier>
+      <gml:name>8</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="boatOrGliderCarrier">
+      <gml:description>Carrier for boat or glider transport.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">boatOrGliderCarrier</gml:identifier>
+      <gml:name>9</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="bus">
+      <gml:description>Vehicle for mass road transport.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">bus</gml:identifier>
+      <gml:name>6</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="car">
+      <gml:description>Small, often privately owned, typically four-wheeled vehicle for transport of persons and limited goods.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">car</gml:identifier>
+      <gml:name>10</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="carOrLightVehicle">
+      <gml:description>Car or light vehicle.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">carOrLightVehicle</gml:identifier>
+      <gml:name>13</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="carWithCaravan">
+      <gml:description>Car towing a caravan.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">carWithCaravan</gml:identifier>
+      <gml:name>14</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="carWithTrailer">
+      <gml:description>Car towing a trailer.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">carWithTrailer</gml:identifier>
+      <gml:name>11</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="caravan">
+      <gml:description>Non-motorised trailer for towing, intended for human occupancy.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">caravan</gml:identifier>
+      <gml:name>12</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="compressor">
+      <gml:description>Vehicle carrying a compressor.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">compressor</gml:identifier>
+      <gml:name>15</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="concreteMixer">
+      <gml:description>Vehicle equipped with concrete mixer.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">concreteMixer</gml:identifier>
+      <gml:name>16</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="concretePumpVehicle">
+      <gml:description>Vehicle equipped with a concrete pump.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">concretePumpVehicle</gml:identifier>
+      <gml:name>17</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="constructionOrMaintenanceVehicle">
+      <gml:description>Vehicle normally used for construction or maintenance purposes, e.g. digger, excavator, bulldozer, lorry-mounted crane etc.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">constructionOrMaintenanceVehicle</gml:identifier>
+      <gml:name>18</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="containerCarrier">
+      <gml:description>Carrier for container(s).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">containerCarrier</gml:identifier>
+      <gml:name>19</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="craneLorry">
+      <gml:description>Crane lorry (other than a mobile crane as defined in this list).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">craneLorry</gml:identifier>
+      <gml:name>22</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="diggerDerrickVehicle">
+      <gml:description>Vehicle with a digger derrick.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">diggerDerrickVehicle</gml:identifier>
+      <gml:name>20</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="electricBicycle">
+      <gml:description>A bicycle with electric motor support.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">electricBicycle</gml:identifier>
+      <gml:name>21</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="electricKickScooter">
+      <gml:description>A two-wheeled device with a handlebar and a floorboard that is powered by an electric motor.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">electricKickScooter</gml:identifier>
+      <gml:name>23</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="fireEngine">
+      <gml:description>Vehicle used by fire brigades.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">fireEngine</gml:identifier>
+      <gml:name>24</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="glazingTransporter">
+      <gml:description>Glazing transporter.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">glazingTransporter</gml:identifier>
+      <gml:name>26</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="hearse">
+      <gml:description>Motor vehicle of category M intended for the transport of deceased people and having special equipment for such purpose.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">hearse</gml:identifier>
+      <gml:name>25</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="heavyDutyTransporter">
+      <gml:description>Large road vehicle, primarily intended for the transport of other vehicles.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">heavyDutyTransporter</gml:identifier>
+      <gml:name>29</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="heavyGoodsVehicle">
+      <gml:description>Large road vehicle, typically over 3.5 tonnes laden mass, primarily intended for the transport of goods.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">heavyGoodsVehicle</gml:identifier>
+      <gml:name>27</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="heavyGoodsVehicleWithTrailer">
+      <gml:description>Large road vehicle, typically over 3.5 tonnes laden mass, primarily intended for the transport of goods with attached towed trailer.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">heavyGoodsVehicleWithTrailer</gml:identifier>
+      <gml:name>28</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="heavyVehicle">
+      <gml:description>Another name for heavy goods vehicle.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">heavyVehicle</gml:identifier>
+      <gml:name>30</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="ladderVehicle">
+      <gml:description>Vehicle equipped with a ladder.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">ladderVehicle</gml:identifier>
+      <gml:name>31</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="lightCommercialVehicle">
+      <gml:description>Road vehicle, typically under 3.5 tonnes laden mass, primarily intended for the transport of goods.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">lightCommercialVehicle</gml:identifier>
+      <gml:name>32</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="lightCommercialVehicleWithTrailer">
+      <gml:description>Road vehicle, typically under 3.5 tonnes laden mass, primarily intended for the transport of goods, with attached towed trailer.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">lightCommercialVehicleWithTrailer</gml:identifier>
+      <gml:name>33</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="lightRail">
+      <gml:description>Train-like transport vehicle limited to a rail network within area; does not include heavy rail lines.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">lightRail</gml:identifier>
+      <gml:name>34</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="livestockCarrier">
+      <gml:description>Vehicle equipped for carrying livestock.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">livestockCarrier</gml:identifier>
+      <gml:name>35</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="metro">
+      <gml:description>Train-like transport vehicle limited to a rail network within area; at surface, below or above surface.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">metro</gml:identifier>
+      <gml:name>36</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="minibus">
+      <gml:description>Road vehicle, typically under 3.5 tonnes laden mass, primarily intended for the transport of people.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">minibus</gml:identifier>
+      <gml:name>37</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="mobileCrane">
+      <gml:description>Special purpose vehicle of category N3, not fitted for the carriage of goods, provided with a crane whose lifting moment is equal to or higher than 400 kNm.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">mobileCrane</gml:identifier>
+      <gml:name>38</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="moped">
+      <gml:description>Moped (a two-wheeled motor vehicle characterised by a small engine typically less than 50 cm3 and by normally having pedals).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">moped</gml:identifier>
+      <gml:name>39</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="motorcycle">
+      <gml:description>Two-wheeled motor vehicle without pedal propulsion.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">motorcycle</gml:identifier>
+      <gml:name>40</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="motorcycleWithSidecar">
+      <gml:description>Three-wheeled vehicle comprising a motorcycle with an attached sidecar.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">motorcycleWithSidecar</gml:identifier>
+      <gml:name>41</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="motorhome">
+      <gml:description>Motorised vehicle, intended for human occupancy.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">motorhome</gml:identifier>
+      <gml:name>42</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="motorsScooter">
+      <gml:description>Motor scooter (a two-wheeled motor vehicle characterised by step-through frame and small diameter wheels).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">motorsScooter</gml:identifier>
+      <gml:name>43</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="offRoadVehicle">
+      <gml:description>Vehicle (of unspecified type) having for cars or light vehicles at least one front axle and at least one rear axle designed to be driven simultaneously (including vehicles where the drive to one axle can be disengaged) and at least one differential locking mechanism (or at least one mechanism having a similar effect) and able to climb a 25 % gradient calculated for a solo vehicle. For vehicles above 12 tonnes laden mass the condition on axles becomes to have at least half of the axles (or two axles out of the three in the case of a three axle vehicle and three axles in the case of a five axle vehicle) designed to be driven simultaneously, irrespective of whether one powered axle can be disengaged.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">offRoadVehicle</gml:identifier>
+      <gml:name>44</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="otherOrUnknown">
+      <gml:description>Unknown vehicle type or other than as defined in this list.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">otherOrUnknown</gml:identifier>
+      <gml:name>99</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="passengerCar">
+      <gml:description>Another name for car.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">passengerCar</gml:identifier>
+      <gml:name>45</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="personalLightElectricVehicle">
+      <gml:description>Small electronic vehicle where the rider stands on a base between the wheels and holds onto a bar at waist height. It also includes other personal light electric vehicles like kick scooters, self-balancing unicycles, self-balancing scooters.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">personalLightElectricVehicle</gml:identifier>
+      <gml:name>46</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="quadricycle">
+      <gml:description>Four-wheeled power-driven vehicle meeting the classification criteria for L6 or L7 category vehicles of UNECE  (i.e. with unladen mass under 400 kg (or 550 kg for vehicle intended for carrying goods)).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">quadricycle</gml:identifier>
+      <gml:name>47</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="recoveryVehicle">
+      <gml:description>Recovery vehicle.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">recoveryVehicle</gml:identifier>
+      <gml:name>48</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="refuseCollectionVehicle">
+      <gml:description>Refuse collection vehicle.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">refuseCollectionVehicle</gml:identifier>
+      <gml:name>49</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="streetSweeperCleansingAndDrainClearing">
+      <gml:description>Street sweeper, cleansing and drain clearing.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">streetSweeperCleansingAndDrainClearing</gml:identifier>
+      <gml:name>50</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tanker">
+      <gml:description>Vehicle with large tank for carrying bulk liquids, gases or powders.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">tanker</gml:identifier>
+      <gml:name>51</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="threeWheeledVehicle">
+      <gml:description>Three-wheeled vehicle of unspecified type.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">threeWheeledVehicle</gml:identifier>
+      <gml:name>52</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="timber">
+      <gml:description>Heavy vehicle for carryi logs.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">timber</gml:identifier>
+      <gml:name>54</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="trailer">
+      <gml:description>Non-motorised vehicle, intended to be towed.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">trailer</gml:identifier>
+      <gml:name>55</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tram">
+      <gml:description>Train-like mass transport vehicle, running on rails, typically partially or wholly on the road network. It also includes rubber-tyred trams.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">tram</gml:identifier>
+      <gml:name>56</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tricycle">
+      <gml:description>Pedal-driven three-wheeled vehicle.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">tricycle</gml:identifier>
+      <gml:name>53</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="trolleyBus">
+      <gml:description>Bus-like mass transport vehicle hocked up to an electrical network for power supply.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">trolleyBus</gml:identifier>
+      <gml:name>57</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="twoWheeledVehicle">
+      <gml:description>Two-wheeled vehicle of unspecified type.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">twoWheeledVehicle</gml:identifier>
+      <gml:name>58</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="vehicleForRetailOrDisplayPurposes">
+      <gml:description>Vehicle for retail or display purposes.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">vehicleForRetailOrDisplayPurposes</gml:identifier>
+      <gml:name>59</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="vehicleTransporter">
+      <gml:description>Road vehicle, primarily intended for the transport of other vehicles.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">vehicleTransporter</gml:identifier>
+      <gml:name>60</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="vehicleWithCaravan">
+      <gml:description>Vehicle (of unspecified type) towing a caravan.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">vehicleWithCaravan</gml:identifier>
+      <gml:name>61</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="vehicleWithCatalyticConverter">
+      <gml:description>Vehicle with catalytic converter.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">vehicleWithCatalyticConverter</gml:identifier>
+      <gml:name>62</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="vehicleWithTrailer">
+      <gml:description>Vehicle (of unspecified type) towing a trailer.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">vehicleWithTrailer</gml:identifier>
+      <gml:name>64</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="vehicleWithoutCatalyticConverter">
+      <gml:description>Vehicle without catalytic converter.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">vehicleWithoutCatalyticConverter</gml:identifier>
+      <gml:name>63</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="vocationalVehicle">
+      <gml:description>A heavy-duty vehicle not intended for the delivery of goods with specific bodywork as defined in Regulation (EU) 2018/85; or a tractor with a maximum speed not exceeding 79 km/h.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">vocationalVehicle</gml:identifier>
+      <gml:name>65</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="wheelchairAccessibleVehicle">
+      <gml:description>Vehicle of category M1 constructed or converted specifically so that they accommodate one or more person(s) seated in their wheelchair(s) when travelling on the road.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">wheelchairAccessibleVehicle</gml:identifier>
+      <gml:name>66</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="withEvenNumberedRegistrationPlates">
+      <gml:description>Vehicle with even numbered registration plate.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">withEvenNumberedRegistrationPlates</gml:identifier>
+      <gml:name>67</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="withOddNumberedRegistrationPlates">
+      <gml:description>Vehicle with odd numbered registration plate.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleTypeList">withOddNumberedRegistrationPlates</gml:identifier>
+      <gml:name>68</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

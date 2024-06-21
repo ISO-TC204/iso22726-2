@@ -1,0 +1,207 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="DisturbanceActivityTypeList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>Types of disturbance activities.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">DisturbanceActivityTypeList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="airRaid">
+      <gml:description>A situation relating to any threat from foreign air power.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">airRaid</gml:identifier>
+      <gml:name>0</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="altercationOfVehicleOccupants">
+      <gml:description>An altercation (argument, dispute or fight) between two or more vehicle occupants.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">altercationOfVehicleOccupants</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="assault">
+      <gml:description>A situation where an assault has taken place on one or more persons.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">assault</gml:identifier>
+      <gml:name>2</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="assetDestruction">
+      <gml:description>A situation where assets of one or more persons or authorities have been destroyed.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">assetDestruction</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="attack">
+      <gml:description>A situation where an attack on a group of people or properties has taken place.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">attack</gml:identifier>
+      <gml:name>4</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="attackOnVehicle">
+      <gml:description>A situation where an attack on a vehicle or its occupants has taken place.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">attackOnVehicle</gml:identifier>
+      <gml:name>5</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="blockadeOrBarrier">
+      <gml:description>A manned blockade or barrier across a road stopping vehicles passing.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">blockadeOrBarrier</gml:identifier>
+      <gml:name>6</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="bombAlert">
+      <gml:description>An alert to a situation where suspected or actual explosive or incendiary devices may cause disruption to traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">bombAlert</gml:identifier>
+      <gml:name>7</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="crowd">
+      <gml:description>A major gathering of people that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">crowd</gml:identifier>
+      <gml:name>8</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="demonstration">
+      <gml:description>A public protest with the potential to disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">demonstration</gml:identifier>
+      <gml:name>9</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="evacuation">
+      <gml:description>A situation where a definite area is being cleared due to dangerous conditions or for security reasons.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">evacuation</gml:identifier>
+      <gml:name>10</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="filterBlockage">
+      <gml:description>A manned blockade of a road where only certain vehicles are allowed through.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">filterBlockage</gml:identifier>
+      <gml:name>11</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="goSlowOperation">
+      <gml:description>As a form of protest, several vehicles are driving in a convoy at a low speed which is affecting the normal traffic flow.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">goSlowOperation</gml:identifier>
+      <gml:name>12</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="gunfireOnRoadway">
+      <gml:description>A situation involving gunfire, perceived or actual, on or near the roadway through an act of terrorism or crime, which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">gunfireOnRoadway</gml:identifier>
+      <gml:name>13</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="illVehicleOccupants">
+      <gml:description>One or more occupants of a vehicle are seriously ill, possibly requiring specialist services or assistance. This may disrupt normal traffic flow.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">illVehicleOccupants</gml:identifier>
+      <gml:name>14</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="march">
+      <gml:description>A situation where people are walking together in large groups for a common purpose, with potential to disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">march</gml:identifier>
+      <gml:name>15</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="other">
+      <gml:description>Other than as defined in this list.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">other</gml:identifier>
+      <gml:name>29</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="peopleThrowingObjectsOnTheRoad">
+      <gml:description>People throwing objects on the road.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">peopleThrowingObjectsOnTheRoad</gml:identifier>
+      <gml:name>16</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="publicDisturbance">
+      <gml:description>A situation of public disorder, with potential to disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">publicDisturbance</gml:identifier>
+      <gml:name>17</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="radioactiveLeakAlert">
+      <gml:description>An alert to a radioactive leak which may endanger the public and hence may cause traffic disruption.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">radioactiveLeakAlert</gml:identifier>
+      <gml:name>18</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="riot">
+      <gml:description>A situation of public disorder involving violent behaviour and/or destruction of property with the potential to disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">riot</gml:identifier>
+      <gml:name>19</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="sabotage">
+      <gml:description>A situation resulting from any act of sabotage.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">sabotage</gml:identifier>
+      <gml:name>20</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="securityAlert">
+      <gml:description>An official alert to a perceived or actual threat of crime or terrorism, which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">securityAlert</gml:identifier>
+      <gml:name>21</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="securityIncident">
+      <gml:description>A situation related to a perceived or actual threat of crime or terrorism, which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">securityIncident</gml:identifier>
+      <gml:name>22</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="sightseersObstructingAccess">
+      <gml:description>Attendees or sightseers to reported event(s) causing obstruction to access.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">sightseersObstructingAccess</gml:identifier>
+      <gml:name>23</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="strike">
+      <gml:description>A situation resulting from industrial action that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">strike</gml:identifier>
+      <gml:name>24</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="terroristIncident">
+      <gml:description>A situation related to a perceived or actual threat of terrorism, which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">terroristIncident</gml:identifier>
+      <gml:name>25</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="theft">
+      <gml:description>A situation where assets of one or more persons or authorities have been stolen.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">theft</gml:identifier>
+      <gml:name>26</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="toxicCloudAlert">
+      <gml:description>An alert to a toxic release of gases and/or particulates into the environment which may endanger the public and hence may cause traffic disruption.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/DisturbanceActivityTypeList">toxicCloudAlert</gml:identifier>
+      <gml:name>27</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

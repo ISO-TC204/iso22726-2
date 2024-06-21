@@ -1,0 +1,214 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="RoadLayoutManagementTypeList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>Management actions relating to road, carriageway or lane usage.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">RoadLayoutManagementTypeList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="carPoolLaneInOperation">
+      <gml:description>Dedicated car pool lane(s) are in operation for vehicles carrying at least the specified number of occupants.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">carPoolLaneInOperation</gml:identifier>
+      <gml:name>0</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="carriagewayClosures">
+      <gml:description>Carriageway closures are in operation at the specified location.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">carriagewayClosures</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="clearALaneForEmergencyVehicles">
+      <gml:description>Clear a lane for emergency vehicles.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">clearALaneForEmergencyVehicles</gml:identifier>
+      <gml:name>2</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="clearALaneForSnowploughsAndGrittingVehicles">
+      <gml:description>Clear a lane for snow ploughs and gritting vehicles.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">clearALaneForSnowploughsAndGrittingVehicles</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="closedPermanentlyForTheWinter">
+      <gml:description>The road is closed to vehicles with the specified characteristics or all, if none defined, for the duration of the winter.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">closedPermanentlyForTheWinter</gml:identifier>
+      <gml:name>4</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="contraflow">
+      <gml:description>Two-way traffic is temporarily sharing a single carriageway.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">contraflow</gml:identifier>
+      <gml:name>5</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="doNotUseSpecifiedLanesOrCarriageways">
+      <gml:description>Do not use the specified lane(s) or carriageway(s).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">doNotUseSpecifiedLanesOrCarriageways</gml:identifier>
+      <gml:name>6</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="hardShoulderRunningInOperation">
+      <gml:description>The hard shoulder is open as an operational lane.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">hardShoulderRunningInOperation</gml:identifier>
+      <gml:name>7</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="hardShoulderRunningNotInOperation">
+      <gml:description>The hardshoulder used for dynamic hardshoulder management is closed to vehicles i.e. not running.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">hardShoulderRunningNotInOperation</gml:identifier>
+      <gml:name>8</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="heightRestrictionInOperation">
+      <gml:description>A height restriction is in operation.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">heightRestrictionInOperation</gml:identifier>
+      <gml:name>9</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="intermittentShortTermClosures">
+      <gml:description>Road closures occur intermittently on the specified road in the specified direction for short durations.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">intermittentShortTermClosures</gml:identifier>
+      <gml:name>10</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="keepToTheLeft">
+      <gml:description>Keep to the left.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">keepToTheLeft</gml:identifier>
+      <gml:name>11</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="keepToTheRight">
+      <gml:description>Keep to the right.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">keepToTheRight</gml:identifier>
+      <gml:name>12</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="laneClosures">
+      <gml:description>Lane closures are in operation at the specified location for vehicles with the specified characteristics or all, if none defined, in the specified direction.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">laneClosures</gml:identifier>
+      <gml:name>13</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="lanesDeviated">
+      <gml:description>Lane deviations are in operation at the specified location.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">lanesDeviated</gml:identifier>
+      <gml:name>14</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="narrowLanes">
+      <gml:description>Normal lane widths are temporarily reduced.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">narrowLanes</gml:identifier>
+      <gml:name>15</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="newRoadworksLayout">
+      <gml:description>A new layout of lanes/carriageway has been implemented associated with roadworks.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">newRoadworksLayout</gml:identifier>
+      <gml:name>16</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="other">
+      <gml:description>Other than as defined in this code list.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">other</gml:identifier>
+      <gml:name>29</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="overnightClosures">
+      <gml:description>Every night the road is closed to vehicles with the specified characteristics or all, if none defined, in the specified direction by decision of the appropriate authorities.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">overnightClosures</gml:identifier>
+      <gml:name>17</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="roadCleared">
+      <gml:description>The road has been cleared of earlier reported problems.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">roadCleared</gml:identifier>
+      <gml:name>18</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="roadClosed">
+      <gml:description>The road is closed to vehicles with the specified characteristics or all, if none defined, in the specified direction.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">roadClosed</gml:identifier>
+      <gml:name>19</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="rollingRoadBlock">
+      <gml:description>Traffic officers or police are driving slowly in front of a queue of traffic to create a gap in the traffic to allow for clearance activities to take place in safety on the road ahead.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">rollingRoadBlock</gml:identifier>
+      <gml:name>20</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="rushHourLaneInOperation">
+      <gml:description>Dedicated rush (peak) hour lane(s) are in operation.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">rushHourLaneInOperation</gml:identifier>
+      <gml:name>21</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="singleAlternateLineTraffic">
+      <gml:description>Traffic is being controlled to move in alternate single lines. This control may be undertaken by traffic lights or flagman.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">singleAlternateLineTraffic</gml:identifier>
+      <gml:name>22</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tidalFlowLaneInOperation">
+      <gml:description>Dedicated tidal flow lane(s) are in operation in the specified direction.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">tidalFlowLaneInOperation</gml:identifier>
+      <gml:name>23</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="turnAroundInOperation">
+      <gml:description>Traffic is being directed back down the opposite carriageway, possibly requiring the temporary removal of the central crash barrier.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">turnAroundInOperation</gml:identifier>
+      <gml:name>24</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="useOfSpecifiedLanesOrCarriagewaysAllowed">
+      <gml:description>The specified lane(s) or carriageway(s) may be used. The normal lane(s) or carriageway(s) restrictions are not currently in force.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">useOfSpecifiedLanesOrCarriagewaysAllowed</gml:identifier>
+      <gml:name>25</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="useSpecifiedLanesOrcarriageways">
+      <gml:description>Use the specified lane(s) or carriageway(s).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">useSpecifiedLanesOrcarriageways</gml:identifier>
+      <gml:name>26</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="vehicleStorageInOperation">
+      <gml:description>Vehicles are being stored on the roadway and/or at a rest area or service area at the specified location.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">vehicleStorageInOperation</gml:identifier>
+      <gml:name>27</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="weightRestrictionInOperation">
+      <gml:description>A weight restriction is in operation.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/RoadLayoutManagementTypeList">weightRestrictionInOperation</gml:identifier>
+      <gml:name>28</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

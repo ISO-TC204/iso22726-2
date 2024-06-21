@@ -1,0 +1,417 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="PublicEventTypeList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>Type of public event which could disrupt traffic.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">PublicEventTypeList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="agriculturalShow">
+      <gml:description>Agricultural show or event which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">agriculturalShow</gml:identifier>
+      <gml:name>0</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="airShow">
+      <gml:description>Air show or other aeronautical event which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">airShow</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="artEvent">
+      <gml:description>Art event.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">artEvent</gml:identifier>
+      <gml:name>2</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="athleticsMeeting">
+      <gml:description>Athletics event that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">athleticsMeeting</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="ballGame">
+      <gml:description>Ball game event that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">ballGame</gml:identifier>
+      <gml:name>6</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="baseballGame">
+      <gml:description>Baseball game event that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">baseballGame</gml:identifier>
+      <gml:name>7</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="basketballGame">
+      <gml:description>Basketball game event that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">basketballGame</gml:identifier>
+      <gml:name>8</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="beerFestival">
+      <gml:description>Beer festival.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">beerFestival</gml:identifier>
+      <gml:name>9</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="bicycleRace">
+      <gml:description>Bicycle race that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">bicycleRace</gml:identifier>
+      <gml:name>10</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="boatRace">
+      <gml:description>Regatta (boat race event of sailing, powerboat or rowing) that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">boatRace</gml:identifier>
+      <gml:name>20</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="boatShow">
+      <gml:description>Boat show which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">boatShow</gml:identifier>
+      <gml:name>21</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="boxingTournament">
+      <gml:description>Boxing event that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">boxingTournament</gml:identifier>
+      <gml:name>22</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="bullFight">
+      <gml:description>Bull fighting event that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">bullFight</gml:identifier>
+      <gml:name>23</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="ceremonialEvent">
+      <gml:description>Formal or religious act, rite or ceremony that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">ceremonialEvent</gml:identifier>
+      <gml:name>24</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="commercialEvent">
+      <gml:description>Commercial event which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">commercialEvent</gml:identifier>
+      <gml:name>4</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="concert">
+      <gml:description>Concert event that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">concert</gml:identifier>
+      <gml:name>25</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="cricketMatch">
+      <gml:description>Cricket match that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">cricketMatch</gml:identifier>
+      <gml:name>26</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="culturalEvent">
+      <gml:description>Cultural event which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">culturalEvent</gml:identifier>
+      <gml:name>5</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="exhibition">
+      <gml:description>Major display or trade show which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">exhibition</gml:identifier>
+      <gml:name>27</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="fair">
+      <gml:description>Periodic (e.g. annual), often traditional, gathering for entertainment or trade promotion, which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">fair</gml:identifier>
+      <gml:name>28</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="festival">
+      <gml:description>Celebratory event or series of events which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">festival</gml:identifier>
+      <gml:name>29</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="filmTVFestival">
+      <gml:description>Film festival.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">filmTVFestival</gml:identifier>
+      <gml:name>30</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="filmTVMaking">
+      <gml:description>Film or TV making event which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">filmTVMaking</gml:identifier>
+      <gml:name>40</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="fireworkDisplay">
+      <gml:description>Firework display.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">fireworkDisplay</gml:identifier>
+      <gml:name>41</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="flowerEvent">
+      <gml:description>Flower event.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">flowerEvent</gml:identifier>
+      <gml:name>42</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="foodFestival">
+      <gml:description>Food festival.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">foodFestival</gml:identifier>
+      <gml:name>43</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="footballMatch">
+      <gml:description>Football match that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">footballMatch</gml:identifier>
+      <gml:name>44</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="funfair">
+      <gml:description>Periodic (e.g. annual), often traditional, gathering for entertainment, which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">funfair</gml:identifier>
+      <gml:name>45</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="gardeningOrFlowerShow">
+      <gml:description>Gardening and/or flower show or event which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">gardeningOrFlowerShow</gml:identifier>
+      <gml:name>46</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="golfTournament">
+      <gml:description>Golf tournament event that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">golfTournament</gml:identifier>
+      <gml:name>47</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="hockeyGame">
+      <gml:description>Hockey game event that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">hockeyGame</gml:identifier>
+      <gml:name>48</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="horseRaceMeeting">
+      <gml:description>Horse race meeting that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">horseRaceMeeting</gml:identifier>
+      <gml:name>49</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="internationalSportsMeeting">
+      <gml:description>Large sporting event of an international nature that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">internationalSportsMeeting</gml:identifier>
+      <gml:name>50</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="majorEvent">
+      <gml:description>Significant organised event either on or near the roadway which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">majorEvent</gml:identifier>
+      <gml:name>60</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="marathon">
+      <gml:description>Marathon, cross-country or road running event that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">marathon</gml:identifier>
+      <gml:name>61</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="market">
+      <gml:description>Periodic (e.g. weekly) gathering for buying and selling, which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">market</gml:identifier>
+      <gml:name>62</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="match">
+      <gml:description>Sports match of unspecified type that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">match</gml:identifier>
+      <gml:name>63</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="motorShow">
+      <gml:description>Motor show which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">motorShow</gml:identifier>
+      <gml:name>64</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="motorSportRaceMeeting">
+      <gml:description>Motor sport race meeting that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">motorSportRaceMeeting</gml:identifier>
+      <gml:name>65</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="openAirConcert">
+      <gml:description>Open air concert.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">openAirConcert</gml:identifier>
+      <gml:name>66</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="otherOrUnknown">
+      <gml:description>Other than as defined in this code list or not known by the service provider at the message type.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">otherOrUnknown</gml:identifier>
+      <gml:name>100</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="parade">
+      <gml:description>Formal display or organised procession which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">parade</gml:identifier>
+      <gml:name>67</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="procession">
+      <gml:description>An organised procession which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">procession</gml:identifier>
+      <gml:name>68</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="raceMeeting">
+      <gml:description>Race meeting (other than horse or motor sport) that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">raceMeeting</gml:identifier>
+      <gml:name>69</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="rugbyMatch">
+      <gml:description>Rugby match that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">rugbyMatch</gml:identifier>
+      <gml:name>70</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="severalMajorEvents">
+      <gml:description>A series of significant organised events either on or near the roadway which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">severalMajorEvents</gml:identifier>
+      <gml:name>80</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="show">
+      <gml:description>Entertainment event that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">show</gml:identifier>
+      <gml:name>81</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="showJumping">
+      <gml:description>Horse showing jumping and tournament event that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">showJumping</gml:identifier>
+      <gml:name>82</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="soundAndLightShow">
+      <gml:description>Sound and light show.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">soundAndLightShow</gml:identifier>
+      <gml:name>83</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="sportsMeeting">
+      <gml:description>Sports event of unspecified type that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">sportsMeeting</gml:identifier>
+      <gml:name>84</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="stateOccasion">
+      <gml:description>Public ceremony or visit of national or international significance which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">stateOccasion</gml:identifier>
+      <gml:name>85</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="streetFestival">
+      <gml:description>Street festival.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">streetFestival</gml:identifier>
+      <gml:name>86</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tennisTournament">
+      <gml:description>Tennis tournament that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">tennisTournament</gml:identifier>
+      <gml:name>87</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="theatricalEvent">
+      <gml:description>Theatrical event.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">theatricalEvent</gml:identifier>
+      <gml:name>88</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tournament">
+      <gml:description>Sporting event or series of events of unspecified type lasting more than one day which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">tournament</gml:identifier>
+      <gml:name>89</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tradefair">
+      <gml:description>A periodic (e.g. annual), often traditional, gathering for trade promotion, which could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">tradefair</gml:identifier>
+      <gml:name>90</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="waterSportsMeeting">
+      <gml:description>Water sports meeting that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">waterSportsMeeting</gml:identifier>
+      <gml:name>91</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="wineFestival">
+      <gml:description>Wine festival.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">wineFestival</gml:identifier>
+      <gml:name>92</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="winterSportsMeeting">
+      <gml:description>Winter sports meeting or event (e.g. skiing, ski jumping, skating) that could disrupt traffic.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PublicEventTypeList">winterSportsMeeting</gml:identifier>
+      <gml:name>93</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

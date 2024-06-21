@@ -1,0 +1,53 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="VehicleEquipmentList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>List of the types of vehicle equipment in use or on board.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">VehicleEquipmentList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="notUsingSnowChains">
+      <gml:description>Vehicle not using snow chains.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleEquipmentList">notUsingSnowChains</gml:identifier>
+      <gml:name>0</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="notUsingSnowChainsOrTyres">
+      <gml:description>Vehicle not using either snow tyres or snow chains.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleEquipmentList">notUsingSnowChainsOrTyres</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="snowChainInUse">
+      <gml:description>Vehicle using snow chains.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleEquipmentList">snowChainInUse</gml:identifier>
+      <gml:name>2</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="snowChainsOrTyresInUse">
+      <gml:description>Vehicle using snow tyres or snow chains.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleEquipmentList">snowChainsOrTyresInUse</gml:identifier>
+      <gml:name>4</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="snowTyresInUse">
+      <gml:description>Vehicle using snow tyres.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleEquipmentList">snowTyresInUse</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="withSnowTyresOrChainsOnBoard">
+      <gml:description>Vehicle which is carrying on board snow tyres or chains.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleEquipmentList">withSnowTyresOrChainsOnBoard</gml:identifier>
+      <gml:name>6</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="withoutSnowTyresOrChainsOnBoard">
+      <gml:description>Vehicle which is not carrying on board snow tyres or chains.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/VehicleEquipmentList">withoutSnowTyresOrChainsOnBoard</gml:identifier>
+      <gml:name>5</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

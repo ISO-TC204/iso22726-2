@@ -1,0 +1,361 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="PoorEnvironmentTypeList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>Types of poor environmental conditions.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">PoorEnvironmentTypeList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="badWeather">
+      <gml:description>Adverse weather conditions are affecting driving conditions.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">badWeather</gml:identifier>
+      <gml:name>0</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="blizzard">
+      <gml:description>Heavy snowfall in combination with strong winds, limiting visibility to 50m or less.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">blizzard</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="blowingDust">
+      <gml:description>Dust blowing across the roadway causing significantly reduced visibility.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">blowingDust</gml:identifier>
+      <gml:name>2</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="blowingSnow">
+      <gml:description>Fallen snow moving due to the forces of wind.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">blowingSnow</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="crosswinds">
+      <gml:description>Strong cross winds across the direction of the roadway (e.g. on a ridge or bridge).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">crosswinds</gml:identifier>
+      <gml:name>4</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="damagingHail">
+      <gml:description>Large falling ice pellets or frozen rain capable of causing injury or damage to property.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">damagingHail</gml:identifier>
+      <gml:name>5</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="denseFog">
+      <gml:description>Dense fog, limiting visibility to 50m or less.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">denseFog</gml:identifier>
+      <gml:name>6</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="eclipse">
+      <gml:description>Eclipse, either partial or full, of the sun causing low light levels during normal daylight period.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">eclipse</gml:identifier>
+      <gml:name>7</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="extremeCold">
+      <gml:description>Abnormally low temperatures.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">extremeCold</gml:identifier>
+      <gml:name>8</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="extremeHeat">
+      <gml:description>Abnormally high expected maximum temperature.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">extremeHeat</gml:identifier>
+      <gml:name>9</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="fog">
+      <gml:description>Fog, visibility more than 50m.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">fog</gml:identifier>
+      <gml:name>10</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="freezingFog">
+      <gml:description>Fog, in conjunction with sub-zero air temperatures causing possible freezing of road surface.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">freezingFog</gml:identifier>
+      <gml:name>11</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="frost">
+      <gml:description>Frost can be expected.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">frost</gml:identifier>
+      <gml:name>12</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="gales">
+      <gml:description>Winds between 60 km/h and 90 km/h.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">gales</gml:identifier>
+      <gml:name>13</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="gustyWinds">
+      <gml:description>Constantly varying winds, significant at times.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">gustyWinds</gml:identifier>
+      <gml:name>14</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="hail">
+      <gml:description>Falling ice pellets or frozen rain.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">hail</gml:identifier>
+      <gml:name>15</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="heavyFrost">
+      <gml:description>A thick coating of frost can be expected.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">heavyFrost</gml:identifier>
+      <gml:name>16</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="heavyRain">
+      <gml:description>Heavy rainfall, limiting visibility to 50m or less.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">heavyRain</gml:identifier>
+      <gml:name>17</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="heavySnowfall">
+      <gml:description>Dense falling snow, limiting visibility to 50m or less.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">heavySnowfall</gml:identifier>
+      <gml:name>18</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="hurricaneForceWinds">
+      <gml:description>Winds over 120 km/h.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">hurricaneForceWinds</gml:identifier>
+      <gml:name>19</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="lowSunGlare">
+      <gml:description>Difficult visibility conditions created by low elevation sunlight.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">lowSunGlare</gml:identifier>
+      <gml:name>20</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="moderateFog">
+      <gml:description>Misty conditions impairing vision over 100m.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">moderateFog</gml:identifier>
+      <gml:name>21</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="nearbyFire">
+      <gml:description>Fire near the road affecting driving conditions and/or significantly reduced visibility</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">nearbyFire</gml:identifier>
+      <gml:name>22</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="nearbyFlooding">
+      <gml:description>Flooding near the road risking to affect driving conditions</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">nearbyFlooding</gml:identifier>
+      <gml:name>23</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="ozonePollution">
+      <gml:description>High concentrations of ozone are present.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">ozonePollution</gml:identifier>
+      <gml:name>24</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="patchyFog">
+      <gml:description>Fog, in which intermittent areas of dense fog may be encountered.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">patchyFog</gml:identifier>
+      <gml:name>26</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="pollution">
+      <gml:description>Pollution of an unspecified nature.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">pollution</gml:identifier>
+      <gml:name>25</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="precipitationInTheArea">
+      <gml:description>Unspecified precipitation is falling on the area.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">precipitationInTheArea</gml:identifier>
+      <gml:name>27</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="rain">
+      <gml:description>Rain, visibility more than 50m.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">rain</gml:identifier>
+      <gml:name>28</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="rainChangingToSnow">
+      <gml:description>alling rain is changing to snow.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">rainChangingToSnow</gml:identifier>
+      <gml:name>29</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="sandStorms">
+      <gml:description>and blowing across the roadway causing significantly reduced visibility.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">sandStorms</gml:identifier>
+      <gml:name>30</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="severeExhaustPollution">
+      <gml:description>Pollution from exhaust fumes has reached a level sufficient to cause concern.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">severeExhaustPollution</gml:identifier>
+      <gml:name>31</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="severeSmog">
+      <gml:description>Environmental warning of very poor air quality resulting from smog.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">severeSmog</gml:identifier>
+      <gml:name>32</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="showers">
+      <gml:description>Light rain or intermittent rain</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">showers</gml:identifier>
+      <gml:name>33</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="sleet">
+      <gml:description>Rain mingled with snow or hail.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">sleet</gml:identifier>
+      <gml:name>34</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="smogAlert">
+      <gml:description>Environmental warning of poor air quality resulting from smog.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">smogAlert</gml:identifier>
+      <gml:name>35</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="smokeHazard">
+      <gml:description>Smoke drifting across the roadway causing significantly reduced visibility.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">smokeHazard</gml:identifier>
+      <gml:name>36</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="snowChangingToRain">
+      <gml:description>Falling snow is changing to rain.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">snowChangingToRain</gml:identifier>
+      <gml:name>37</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="snowfall">
+      <gml:description>Falling snow, visibility more than 50m.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">snowfall</gml:identifier>
+      <gml:name>38</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="sprayHazard">
+      <gml:description>Reduced visibility resulting from spray created by moving vehicles on a wet roadway.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">sprayHazard</gml:identifier>
+      <gml:name>39</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="stormForceWinds">
+      <gml:description>Winds between 90 km/h and 120 km/h.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">stormForceWinds</gml:identifier>
+      <gml:name>40</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="strongGustsOfWind">
+      <gml:description>Constantly varying winds, strong at times.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">strongGustsOfWind</gml:identifier>
+      <gml:name>41</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="strongWinds">
+      <gml:description>Winds between 40 km/h and 60 km/h.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">strongWinds</gml:identifier>
+      <gml:name>42</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="swarmsOfInsects">
+      <gml:description>Large numbers of insects which create a hazard for road users through reduced visibility.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">swarmsOfInsects</gml:identifier>
+      <gml:name>43</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="temperatureFalling">
+      <gml:description>The temperature is falling significantly.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">temperatureFalling</gml:identifier>
+      <gml:name>44</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="thunderstorms">
+      <gml:description>Electrical storms, generally with heavy rain.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">thunderstorms</gml:identifier>
+      <gml:name>45</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="tornadoes">
+      <gml:description>Very violent, whirling windstorms affecting narrow strips of country.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">tornadoes</gml:identifier>
+      <gml:name>46</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="veryStrongGustsOfWind">
+      <gml:description>Constantly varying winds, very strong at times.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">veryStrongGustsOfWind</gml:identifier>
+      <gml:name>47</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="visibilityReduced">
+      <gml:description>Environmental conditions causing reduced visibility.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">visibilityReduced</gml:identifier>
+      <gml:name>48</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="whiteOut">
+      <gml:description>Falling snow in blizzard conditions resulting in very reduced visibility.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">whiteOut</gml:identifier>
+      <gml:name>49</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="winterStorm">
+      <gml:description>Heavy rain, sleet, hail and/or snow in combination with strong winds, limiting visibility to 50m or less.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/PoorEnvironmentTypeList">winterStorm</gml:identifier>
+      <gml:name>50</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

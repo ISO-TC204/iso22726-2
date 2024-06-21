@@ -1,0 +1,263 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ConnectorTypeList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>A list of commonly used connectors and charging interfaces.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">ConnectorTypeList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="cee3">
+      <gml:description>Connector CEE3 (Voltage 230 V intensity 16A).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">cee3</gml:identifier>
+      <gml:name>8</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="cee5">
+      <gml:description>Connector CEE5 (Voltage 400 V intensity 16 to 63 A).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">cee5</gml:identifier>
+      <gml:name>9</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="chademo">
+      <gml:description>Connector CHAdeMO (600 V DC). Used mostly in Japan.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">chademo</gml:identifier>
+      <gml:name>5</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domestic">
+      <gml:description>A domestic socket of unspecified type. Applicable countries should be specified in separate attribute.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domestic</gml:identifier>
+      <gml:name>11</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domesticA">
+      <gml:description>Domestic socket type A (mainly used in the USA, Canada, Mexico and Japan).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domesticA</gml:identifier>
+      <gml:name>12</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domesticB">
+      <gml:description>Domestic socket type B (mainly used in the USA, Canada and Mexico).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domesticB</gml:identifier>
+      <gml:name>13</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domesticC">
+      <gml:description>Domestic socket type C (commonly used in Europe, South America and Asia).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domesticC</gml:identifier>
+      <gml:name>14</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domesticD">
+      <gml:description>Domestic socket type D (mainly used in India).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domesticD</gml:identifier>
+      <gml:name>15</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domesticE">
+      <gml:description>Domestic socket type E (primarily used in France, Belgium, Poland, Slovakia and Czechia)</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domesticE</gml:identifier>
+      <gml:name>16</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domesticF">
+      <gml:description>Domestic socket type F (used almost everywhere in Europe and Russia, except for the UK and Ireland).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domesticF</gml:identifier>
+      <gml:name>17</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domesticG">
+      <gml:description>Domestic socket type G (mainly used in the United Kingdom, Ireland, Malta, Malaysia, Singapore and the Arabian Peninsula).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domesticG</gml:identifier>
+      <gml:name>18</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domesticH">
+      <gml:description>Domestic socket type H (used exclusively in Israel, the West Bank and the Gaza Strip).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domesticH</gml:identifier>
+      <gml:name>19</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domesticI">
+      <gml:description>Domestic socket type I (mainly used in Australia, New Zealand, China and Argentina).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domesticI</gml:identifier>
+      <gml:name>20</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domesticJ">
+      <gml:description>Domestic socket type J (used almost exclusively in Switzerland and Liechtenstein).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domesticJ</gml:identifier>
+      <gml:name>21</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domesticK">
+      <gml:description>Domestic socket type K (used almost exclusively in Denmark and Greenland).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domesticK</gml:identifier>
+      <gml:name>22</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domesticL">
+      <gml:description>Domestic socket type L (used almost exclusively in Italy and Chile).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domesticL</gml:identifier>
+      <gml:name>23</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domesticM">
+      <gml:description>Domestic socket type M (mainly used in South Africa).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domesticM</gml:identifier>
+      <gml:name>24</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domesticN">
+      <gml:description>Domestic socket type N (used in Brazil and South Africa).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domesticN</gml:identifier>
+      <gml:name>25</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="domesticO">
+      <gml:description>Domestic socket type O (used exclusively in Thailand).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">domesticO</gml:identifier>
+      <gml:name>26</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="iec60309x2single16">
+      <gml:description>IEC 60309-2 Industrial Connector single phase 16 amperes (usually blue).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">iec60309x2single16</gml:identifier>
+      <gml:name>30</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="iec60309x2three16">
+      <gml:description>IEC 60309-2 Industrial Connector three phase 16 amperes (usually red).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">iec60309x2three16</gml:identifier>
+      <gml:name>31</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="iec60309x2three32">
+      <gml:description>IEC 60309-2 Industrial Connector three phase 32 amperes (usually red).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">iec60309x2three32</gml:identifier>
+      <gml:name>32</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="iec60309x2three64">
+      <gml:description>IEC 60309-2 Industrial Connector three phase 64 amperes (usually red).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">iec60309x2three64</gml:identifier>
+      <gml:name>33</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="iec62196T1">
+      <gml:description>IEC 62196 Type 1 "SAE J1772".  Mostly used in USA and Asia.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">iec62196T1</gml:identifier>
+      <gml:name>34</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="iec62196T1Combo">
+      <gml:description>Combo Type 1 based, DC.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">iec62196T1Combo</gml:identifier>
+      <gml:name>35</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="iec62196T2">
+      <gml:description>IEC 62196 Type 2 "Mennekes" - 400 V, 16-63 A. Mandatory in Europe - EN 17186 identifier "C".</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">iec62196T2</gml:identifier>
+      <gml:name>36</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="iec62196T2Combo">
+      <gml:description>Combo Type 2 based, DC, Type 2 connector with extension for simultaneous DC-charging.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">iec62196T2Combo</gml:identifier>
+      <gml:name>37</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="iec62196T3A">
+      <gml:description>IEC 62196 Type 3A - EN 17186 identifier "D".</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">iec62196T3A</gml:identifier>
+      <gml:name>38</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="iec62196T3C">
+      <gml:description>IEC 62196 Type 3C "Scame" - EN 17186 identifier "E"</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">iec62196T3C</gml:identifier>
+      <gml:name>39</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="other">
+      <gml:description>Other charging interface.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">other</gml:identifier>
+      <gml:name>99</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="pantographBottomUp">
+      <gml:description>On-board bottom-up pantograph typically for bus charging.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">pantographBottomUp</gml:identifier>
+      <gml:name>40</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="pantographTopDown">
+      <gml:description>Off-board top-down pantograph typically for bus charging.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">pantographTopDown</gml:identifier>
+      <gml:name>41</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="teslaConnectorAmerica">
+      <gml:description>Tesla connector used in America (Tesla specific).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">teslaConnectorAmerica</gml:identifier>
+      <gml:name>43</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="teslaConnectorEurope">
+      <gml:description>Tesla Connector EU (modification of the Type 2 connector).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">teslaConnectorEurope</gml:identifier>
+      <gml:name>42</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="teslaR">
+      <gml:description>Tesla connector "Roadster"-type (round, 4 pin).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">teslaR</gml:identifier>
+      <gml:name>44</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="teslaS">
+      <gml:description>Tesla connector "Model-S"-type (oval, 5 pin).</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">teslaS</gml:identifier>
+      <gml:name>45</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="yazaki">
+      <gml:description>Connector Yazaki (400 V DC, 125 A). Asian standard.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/ConnectorTypeList">yazaki</gml:identifier>
+      <gml:name>10</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

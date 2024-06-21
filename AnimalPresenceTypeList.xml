@@ -1,0 +1,39 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="AnimalPresenceTypeList" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <gml:description>Types of animal presence.</gml:description>
+  <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists">AnimalPresenceTypeList</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="animalOnTheRoad">
+      <gml:description>Traffic may be disrupted due to animals on the roadway.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AnimalPresenceTypeList">animalOnTheRoad</gml:identifier>
+      <gml:name>0</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="herdOfAnimalsOnTheRoad">
+      <gml:description>Traffic may be disrupted due to a herd of animals on the roadway.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AnimalPresenceTypeList">herdOfAnimalsOnTheRoad</gml:identifier>
+      <gml:name>1</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="largeAnimalsOnTheRoad">
+      <gml:description>Traffic may be disrupted due to large animals on the roadway.</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AnimalPresenceTypeList">largeAnimalsOnTheRoad</gml:identifier>
+      <gml:name>2</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="smallAnimalsOnTheRoad">
+      <gml:description>Small animals (that may fit underneath vehicle frames) are on the road</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AnimalPresenceTypeList">smallAnimalsOnTheRoad</gml:identifier>
+      <gml:name>3</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="wildAnimalsOnTheRoad">
+      <gml:description>Wild animals (not controlled by humans) are on the road</gml:description>
+      <gml:identifier codeSpace="https://standards.iso.org/iso/22726/-2/ed-1/en/codelists/AnimalPresenceTypeList">wildAnimalsOnTheRoad</gml:identifier>
+      <gml:name>4</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>
